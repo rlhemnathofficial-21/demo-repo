@@ -1,2 +1,4 @@
 # demo-repo
-New file
+demo repository
+author - Hemnath
+
